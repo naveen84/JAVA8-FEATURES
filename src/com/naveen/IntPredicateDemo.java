@@ -17,3 +17,4 @@ public class IntPredicateDemo {
 	}
 
 }
+//LIKE IntPredicate WE HAVE LongPredicate and DoublePredicate for primitive Predicate Functional Interface
